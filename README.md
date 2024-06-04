@@ -8,4 +8,4 @@ Bem-vindo aos Termos de Serviço da nossa aplicação. Estes termos regem o uso 
 4. **Limitação de Responsabilidade**: Informe os usuários sobre a limitação de responsabilidade da sua aplicação.
 5. **Alterações nos Termos**: Reservamos o direito de modificar estes termos a qualquer momento.
 
-Para ler os termos completos, consulte o arquivo [Termos_de_Servico.md](./Termos_de_Servico.md).
+Para ler os termos completos, consulte o arquivo [Termos_de_Servico.md](./Termos).
