@@ -1,0 +1,9 @@
+Se você está desenvolvendo um bot para o Discord e quer receber interações via HTTP POSTs em vez de usar o Gateway com um usuário bot, você pode configurar um endpoint de interações. Aqui está um guia rápido para fazer isso:
+
+Crie um Endpoint de Interações: Primeiro, crie um endpoint em seu servidor que possa receber solicitações HTTP POST. Este endpoint será onde o Discord enviará as interações que ocorrem em seu bot.
+
+Implemente a Lógica de Interação: Dentro do endpoint que você criou, adicione a lógica necessária para interpretar e responder às interações recebidas. Certifique-se de identificar o tipo de interação, como comandos slash, e responder adequadamente.
+
+Defina o URL do Terminal de Interações: No painel de configurações do seu aplicativo Discord, procure a opção para configurar o URL do terminal de interações. Insira aqui o URL do endpoint que você criou no passo 1.
+
+Teste e Verifique: Após configurar o URL do terminal de interações, teste se está funcionando corretamente. Você pode fazer isso enviando interações simuladas para o endpoint e verificando se recebe respostas adequadas.
